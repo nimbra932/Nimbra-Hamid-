@@ -1,1 +1,2 @@
-#Uni assessments
+#Unit assessments
+Creating a GitHub repository 
